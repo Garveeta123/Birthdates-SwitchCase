@@ -1,4 +1,4 @@
-/*
+=========/*
 *   Author Name     :       Saumya Singh
 *   Aim             :       To demonstrate the use of switch case
 */
@@ -107,5 +107,4 @@ int main()
     }
     return 0;
 }
-
 
